@@ -27,7 +27,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="testPickerView" destination="CSl-ko-iEX" id="Sqc-2f-ehR"/>
+                        <outlet property="myUIPicker" destination="CSl-ko-iEX" id="bRo-f7-NHZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
